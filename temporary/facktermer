@@ -1,0 +1,72 @@
+Disintegrating	 upplösning/sönderdelnig
+Support processes	
+Administration administrativt
+Disjointing	delning
+Cooling komfortkyla
+Mixing blandning
+Lighting belysning
+Jointing fogning
+Compressed Air tryckluft
+Coating	beläggning/bestrykning
+Ventilation ventilation
+Moulding gjutning
+Pumping pumpning
+Heating	upphettning
+Tap water heating tappvarmvatten
+Melting	smältning
+Internal Transport interna transporter
+Drying	torkning
+Space Heating lokaluppvärmning
+Cooling/Freezing nedkylning
+Steam ångtryck
+Packing	packning
+
+
+Disintegrating	 upplösning/sönderdelnig
+Disjointing	delning
+Mixing blandning
+Jointing fogning
+Coating	beläggning/bestrykning
+Moulding gjutning
+Heating	upphettning
+Melting	smältning
+Drying	torkning
+Cooling/Freezing nedkylning
+Packing	packning
+
+Support processes	
+Administration administrativt
+Cooling komfortkyla
+Lighting belysning
+Compressed Air tryckluft
+Ventilation ventilation
+Pumping pumpning
+Tap water heating tappvarmvatten
+Internal Transport interna transporter
+Space Heating lokaluppvärmning
+Steam ångtryck
+
+
+['name'=>'administrativt', 'type' => 'support'],
+['name'=>'komfortkyla', 'type' => 'support'],
+['name'=>'belysning', 'type' => 'support'],
+['name'=>'tryckluft', 'type' => 'support'],
+['name'=>'ventilation', 'type' => 'support'],
+['name'=>'pumpning', 'type' => 'support'],
+['name'=>'tappvarmvatten', 'type' => 'support'],
+['name'=>'interna transporter', 'type' => 'support'],
+['name'=>'lokaluppvärmning', 'type' => 'support'],
+['name'=>'ångtryck', 'type' => 'support'],
+
+
+['name'=> 'upplösning/sönderdelnig', 'type' => 'production'],
+['name'=> 'delning', 'type' => 'production'],
+['name'=> 'blandning', 'type' => 'production'],
+['name'=> 'fogning', 'type' => 'production'],
+['name'=> 'beläggning/bestrykning', 'type' => 'production'],
+['name'=> 'gjutning', 'type' => 'production'],
+['name'=> 'upphettning', 'type' => 'production'],
+['name'=> 'smältning', 'type' => 'production'],
+['name'=> 'torkning', 'type' => 'production'],
+['name'=> 'nedkylning', 'type' => 'production'],
+['name'=> 'packning', 'type' => 'production'],
